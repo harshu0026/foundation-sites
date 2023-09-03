@@ -19,7 +19,7 @@ There are a number of ways to install Foundation for Sites. Our installation pag
 
 ## New to Foundation for Sites?
 
-With an easy to understand syntax and consistent structure, you'll learn your way around Foundation in no time!
+With an easy-to-understand syntax and consistent structure, you'll learn your way around Foundation in no time!
 
 <ul class="accordion welcome-accordion" data-accordion data-allow-all-closed="true">
   <li class="accordion-item welcome-accordion-item" data-accordion-item>
@@ -75,7 +75,7 @@ With an easy to understand syntax and consistent structure, you'll learn your wa
           </div>
           <div class="cell medium-8">
             <h5>Build Your Career on a Solid Foundation</h5>
-            <p>Web technologies are rapidly changing, but time and resources are finite. Find out why Learning Foundation places you at the cutting edge of the website development.
+            <p>Web technologies are rapidly changing, but time and resources are finite. Find out why Learning Foundation places you at the cutting edge of website development.
             </p>
             <span class="accordion-content-item-cta">Learn More</span>
           </div>
@@ -150,7 +150,7 @@ With an easy to understand syntax and consistent structure, you'll learn your wa
 
 ## Experienced with Foundation for Sites?
 
-With an easy to understand syntax and consistent structure, you'll learn your way around Foundation in no time!
+With an easy-to-understand syntax and consistent structure, you'll learn your way around Foundation in no time!
 
 <ul class="accordion welcome-accordion" data-accordion data-allow-all-closed="true">
   <li class="accordion-item welcome-accordion-item" data-accordion-item>
@@ -163,7 +163,7 @@ With an easy to understand syntax and consistent structure, you'll learn your wa
           </div>
           <div class="cell medium-8">
             <h5>Foundation 6.3.1 Update: Sass mixins and bug fixes</h5>
-            <p>Foundation 6.3.1 contains plenty of bug fixes underlying reworks to old features. Along with bug fixes, Foundation gets some some new Sass mixins and optimizations that make it work in more scenarios and the docs got a lot of love. Enjoy it!</p>
+            <p>Foundation 6.3.1 contains plenty of bug fixes underlying reworks to old features. Along with bug fixes, Foundation gets some new Sass mixins and optimizations that make it work in more scenarios and the docs got a lot of love. Enjoy it!</p>
             <span class="accordion-content-item-cta">Learn More</span>
           </div>
         </div>
@@ -180,7 +180,7 @@ With an easy to understand syntax and consistent structure, you'll learn your wa
           </div>
           <div class="cell medium-8">
             <h5>How to Use Foundation's Building Blocks</h5>
-            <p>The Foundation team has cut your development time in half again with Foundation Building Blocks. In this tutorial we'll show you how to find the right building block and the way to install it that works best for you.</p>
+            <p>The Foundation team has cut your development time in half again with Foundation Building Blocks. In this tutorial, we'll show you how to find the right building block and the way to install it that works best for you.</p>
             <span class="accordion-content-item-cta">Learn More</span>
           </div>
         </div>
@@ -197,7 +197,7 @@ With an easy to understand syntax and consistent structure, you'll learn your wa
           </div>
           <div class="cell medium-9">
             <h5>Angular Foundation 6</h5>
-            <p>The awesome folks at Pinecone created an Angular port for Foundation. Angular.js assists with creating single-page applications, one-page web applications that only require HTML, CSS, and JavaScript on the client side.</p>
+            <p>The awesome folks at Pinecone created an Angular port for Foundation. Angular.js assists with creating single-page applications, and one-page web applications that only require HTML, CSS, and JavaScript on the client side.</p>
             <span class="accordion-content-item-cta">Learn More</span>
           </div>
         </div>
@@ -250,7 +250,7 @@ With an easy to understand syntax and consistent structure, you'll learn your wa
           </div>
           <div class="cell medium-8">
             <h5>5 Years of Shaping the Web</h5>
-            <p>This year Foundation turned five years old. It was the first to be responsive, the first to be semantic, the first to be mobile first, the first to be built with Sass, and the first to have accessibility built in. Learn more about the framework and where it's going next.</p>
+            <p>This year Foundation turned five years old. It was the first to be responsive, the first to be semantic, the first to be mobile-first, the first to be built with Sass, and the first to have accessibility built in. Learn more about the framework and where it's going next.</p>
             <span class="accordion-content-item-cta">Learn More</span>
           </div>
         </div>
